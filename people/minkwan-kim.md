@@ -25,6 +25,5 @@ e-mail: palkan21@hanyang.ac.kr
 </section>
 
 ## Research Interests
-**Physically-Based Character Control**
-
-**Deep Neural Network**
+Physically-Based Character Control
+<br>Deep Neural Network
